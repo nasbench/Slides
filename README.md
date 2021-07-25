@@ -9,4 +9,4 @@ A collection of my slides and presentations
 ### Digital Overdose Con - 2021
 * Topic : **Common Tools And Techniques Used By Threat Actors And Malware**
 * Slides : https://github.com/nasbench/Slides/raw/main/Common%20Tools%20And%20Techniques%20Used%20By%20Threat%20Actors%20(Digital%20Overdose).pdf
-* Video : [Coming Soon]
+* Video : https://www.youtube.com/watch?v=YVMgHsvJ1_Y
