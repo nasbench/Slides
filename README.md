@@ -3,7 +3,7 @@ A collection of my slides and presentations
 
 ### BSides Algiers - 2022
 * **Threat Detection Using Sigma**
-* [Slides](https://github.com/nasbench/Slides/blob/main/Threat%20Detection%20Using%20Sigma.pdf)
+* [Slides](https://github.com/nasbench/Slides/blob/main/THREAT-DETECTION-USING-SIGMA-Bsides-Algiers-2022.pdf)
 
 ### Algeria 2.0 - 2021
 * **Top Tools And Techniques Used By Threat Actors And Malware**
