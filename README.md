@@ -1,6 +1,10 @@
 # Slides
 A collection of my slides and presentations
 
+### InfoSec Week (Shellmates) - 2022
+* **LOLBINs - Why, How and Why**
+* [Slides](https://github.com/nasbench/Slides/blob/main/LOLBINs-What-How-Why.pdf)
+
 ### BSides Algiers - 2022
 * **Threat Detection Using Sigma**
 * [Slides](https://github.com/nasbench/Slides/blob/main/THREAT-DETECTION-USING-SIGMA-Bsides-Algiers-2022.pdf)
